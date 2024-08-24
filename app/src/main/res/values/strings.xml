@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Splash app</string>
+    <string name="use_safely_nuse_happily">Use safely\nUse happily</string>
+    <string name="todo">TODO</string>
+    <string name="_6_99_add_to_card">$ 6.99 Add to card</string>
+    <string name="select">select</string>
+    <string name="fruits_cake">fruits_cake</string>
+    <string name="fried_rice">fried_rice</string>
+    <string name="paneer_masala">paneer masala</string>
+    <string name="chicken_masala">chickenmasala</string>
+    <string name="chicken_burger">chickenburger</string>
+    <string name="Avni_resto">Avni resto</string>
+</resources>
